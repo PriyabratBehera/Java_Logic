@@ -14,7 +14,7 @@ public class AddTwoMatrix {
             }
         }
 
-        // Displaying the result
+        // Displaying the result.
         System.out.println("Sum of two matrices is: ");
         for(int[] row : sum) {
             for (int column : row) {
